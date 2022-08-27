@@ -38,7 +38,7 @@ namespace powerbrick {
     const KC_PROXIMITY = 31
     const KC_GESTURE = 41
 
-    const RFID_ADDR = 0x6B
+    const RFID_ADDR = 0x28
     const RFID_VERSION = 0x00
     const RFID_READCMD = 0x01
     const RFID_READOUT = 0x02
